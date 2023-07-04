@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3431d380-6d2d-4046-b2a5-ae4c53aaa139" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/captcha_tf2/create_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/captcha_tf2/create_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha_tf2/data/used_images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha_tf2/data/used_images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha_tf2/data/used_images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha_tf2/data/used_images/train_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha_tf2/data/used_images/train_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha_tf2/settings_tf/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/captcha_tf2/settings_tf/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha_tf2/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/captcha_tf2/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/cnnlib/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/cnnlib/network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/cnnlib/recognition_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/cnnlib/recognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/conf/captcha_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/conf/captcha_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/conf/sample_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/conf/sample_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/recognize_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/recognize_local.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/recognize_online.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/recognize_online.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/test_batch.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/test_batch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/train_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/train_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/verify_and_split_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/verify_and_split_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_captcha/webserver_recognize_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_captcha/cnnlib/webserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnnyzm/0.99captcha.model-4200.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnnyzm/0.99captcha.model-4200.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnnyzm/erweima.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnnyzm/getimg.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnnyzm/getimg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnnyzm/process.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnnyzm/process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnnyzm/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnnyzm/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnnyzm/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnnyzm/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/everything/rsa/myrsa.py" beforeDir="false" afterPath="$PROJECT_DIR$/everything/rsa/myrsa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github520/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/github520/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github520/fetch_ips.py" beforeDir="false" afterPath="$PROJECT_DIR$/github520/fetch_ips.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github520/hosts" beforeDir="false" afterPath="$PROJECT_DIR$/github520/hosts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github520/hosts.json" beforeDir="false" afterPath="$PROJECT_DIR$/github520/hosts.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/github520" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/geetest/bilibil_login.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auto_course/xuexitong/old.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/geetest/geetest.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/school_work/test.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/transfer.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/github520/fetch_ips.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auto_course/yuketang/main_least.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1sVfEoJYh2HcfO0kEkr9lHhDhaB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="py_spider" sdk-home="D:\Python37\python.exe">
+        <option name="mySdkHome" value="D:\Python37\python.exe" />
+        <option name="myModuleName" value="py_spider" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\py_spider\geetest" />
+      <recent name="D:\py_spider\exercises\geetest" />
+      <recent name="D:\py_spider\exercises\geetest\js" />
+      <recent name="D:\py_spider" />
+      <recent name="D:\py_spider\cnnyzm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\py_spider" />
+      <recent name="D:\py_spider\cnn_captcha\cnnlib" />
+      <recent name="D:\py_spider\cnn_captcha\usage" />
+      <recent name="D:\py_spider\auto_course" />
+      <recent name="D:\py_spider\geetest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="py_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_course/xuexitong" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auto_course/xuexitong/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_course/xuexitong" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\py_spider\auto_course\xuexitong\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="old" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_course/xuexitong" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\py_spider\auto_course\xuexitong\old.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auto_course/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testApi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testApi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.testApi" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.old" />
+      <item itemvalue="Python.main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.old" />
+        <item itemvalue="Python.testApi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3431d380-6d2d-4046-b2a5-ae4c53aaa139" name="Default Changelist" comment="" />
+      <created>1620962570739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620962570739</updated>
+      <workItem from="1620962618079" duration="684000" />
+      <workItem from="1620963323579" duration="1308000" />
+      <workItem from="1620971090519" duration="3000" />
+      <workItem from="1621212719152" duration="1695000" />
+      <workItem from="1621214452485" duration="2930000" />
+      <workItem from="1621217913269" duration="1666000" />
+      <workItem from="1621219915657" duration="2522000" />
+      <workItem from="1621222463072" duration="899000" />
+      <workItem from="1621224071903" duration="15048000" />
+      <workItem from="1621239194182" duration="94000" />
+      <workItem from="1621239326610" duration="8806000" />
+      <workItem from="1621248200379" duration="14000" />
+      <workItem from="1621249155556" duration="109000" />
+      <workItem from="1621249369930" duration="2270000" />
+      <workItem from="1621252247705" duration="1279000" />
+      <workItem from="1621260339861" duration="9444000" />
+      <workItem from="1621298099678" duration="1949000" />
+      <workItem from="1621300657377" duration="2582000" />
+      <workItem from="1621328373928" duration="95000" />
+      <workItem from="1621346433012" duration="2927000" />
+      <workItem from="1621349425844" duration="1029000" />
+      <workItem from="1621351540194" duration="961000" />
+      <workItem from="1621513711634" duration="109000" />
+      <workItem from="1621521679903" duration="1256000" />
+      <workItem from="1621523290048" duration="4968000" />
+      <workItem from="1621592893926" duration="597000" />
+      <workItem from="1621593886770" duration="753000" />
+      <workItem from="1621594655486" duration="1167000" />
+      <workItem from="1621595837271" duration="585000" />
+      <workItem from="1621596437740" duration="940000" />
+      <workItem from="1621597399443" duration="1197000" />
+      <workItem from="1621610406500" duration="1218000" />
+      <workItem from="1621684046537" duration="21240000" />
+      <workItem from="1621736127820" duration="1687000" />
+      <workItem from="1621816904107" duration="618000" />
+      <workItem from="1621917514701" duration="348000" />
+      <workItem from="1621936780405" duration="688000" />
+      <workItem from="1621937625496" duration="443000" />
+      <workItem from="1622125748536" duration="301000" />
+      <workItem from="1622266973657" duration="123000" />
+      <workItem from="1622456242237" duration="63000" />
+      <workItem from="1622550125833" duration="4087000" />
+      <workItem from="1622554226946" duration="274000" />
+      <workItem from="1622554512070" duration="211000" />
+      <workItem from="1622555266201" duration="65000" />
+      <workItem from="1622555341067" duration="177000" />
+      <workItem from="1622555537262" duration="116000" />
+      <workItem from="1622555720804" duration="1040000" />
+      <workItem from="1622557127096" duration="128000" />
+      <workItem from="1622559028487" duration="888000" />
+      <workItem from="1622562061408" duration="146000" />
+      <workItem from="1622975668167" duration="1983000" />
+      <workItem from="1622982083630" duration="1426000" />
+      <workItem from="1623063000931" duration="273000" />
+      <workItem from="1623073197207" duration="301000" />
+      <workItem from="1623073511831" duration="259000" />
+      <workItem from="1624070224348" duration="17000" />
+      <workItem from="1624070251786" duration="8486000" />
+      <workItem from="1624079083246" duration="587000" />
+      <workItem from="1624157018264" duration="636000" />
+      <workItem from="1624338729192" duration="17946000" />
+      <workItem from="1624358343162" duration="5897000" />
+      <workItem from="1624413041126" duration="44236000" />
+      <workItem from="1624505754504" duration="28044000" />
+      <workItem from="1624549504153" duration="5303000" />
+      <workItem from="1624588246212" duration="44945000" />
+      <workItem from="1624670451812" duration="44526000" />
+      <workItem from="1624758991995" duration="31153000" />
+      <workItem from="1624810440118" duration="4695000" />
+      <workItem from="1624843003669" duration="3096000" />
+      <workItem from="1624847013952" duration="3961000" />
+      <workItem from="1624853113249" duration="34589000" />
+      <workItem from="1624897123032" duration="5986000" />
+      <workItem from="1624934095694" duration="50938000" />
+      <workItem from="1625017735478" duration="15839000" />
+      <workItem from="1625143293716" duration="831000" />
+      <workItem from="1625186612815" duration="2601000" />
+      <workItem from="1625206207587" duration="339000" />
+      <workItem from="1625217246432" duration="5737000" />
+      <workItem from="1625238862626" duration="2639000" />
+      <workItem from="1625334707447" duration="2333000" />
+      <workItem from="1625451785419" duration="54000" />
+      <workItem from="1625452489485" duration="600000" />
+      <workItem from="1625453500371" duration="315000" />
+      <workItem from="1625567261848" duration="376000" />
+      <workItem from="1625973952935" duration="1335000" />
+      <workItem from="1625975321458" duration="9000" />
+      <workItem from="1626493601843" duration="716000" />
+      <workItem from="1626576573094" duration="3896000" />
+      <workItem from="1626755217079" duration="423000" />
+      <workItem from="1627577654766" duration="56000" />
+      <workItem from="1627816927344" duration="1866000" />
+      <workItem from="1627884589422" duration="10800000" />
+      <workItem from="1627986275097" duration="2181000" />
+      <workItem from="1627990780980" duration="3252000" />
+      <workItem from="1628058630281" duration="11232000" />
+      <workItem from="1628075712651" duration="8102000" />
+      <workItem from="1628083927049" duration="12203000" />
+      <workItem from="1628129848220" duration="2634000" />
+      <workItem from="1628133098843" duration="34348000" />
+      <workItem from="1628185655292" duration="964000" />
+      <workItem from="1628214046172" duration="17606000" />
+      <workItem from="1628248008187" duration="2031000" />
+      <workItem from="1628316580718" duration="6941000" />
+      <workItem from="1628399526123" duration="18944000" />
+      <workItem from="1628441287448" duration="6000" />
+      <workItem from="1628488342950" duration="9818000" />
+      <workItem from="1628579219517" duration="4022000" />
+      <workItem from="1628739031114" duration="36841000" />
+      <workItem from="1628824926214" duration="28239000" />
+      <workItem from="1628918830286" duration="14063000" />
+      <workItem from="1628994858109" duration="4852000" />
+      <workItem from="1629022556875" duration="923000" />
+      <workItem from="1629080136393" duration="5381000" />
+      <workItem from="1629340987897" duration="6585000" />
+      <workItem from="1629420889924" duration="8308000" />
+      <workItem from="1629445092747" duration="5172000" />
+      <workItem from="1629452164615" duration="6962000" />
+      <workItem from="1629507824645" duration="14976000" />
+      <workItem from="1629531044910" duration="16250000" />
+      <workItem from="1629605935079" duration="4566000" />
+      <workItem from="1629690351983" duration="7571000" />
+      <workItem from="1629786325403" duration="3291000" />
+      <workItem from="1629856244817" duration="3207000" />
+      <workItem from="1630043039083" duration="401000" />
+      <workItem from="1630158900841" duration="1070000" />
+      <workItem from="1630200245329" duration="15685000" />
+      <workItem from="1630377595044" duration="517000" />
+      <workItem from="1630385782029" duration="23607000" />
+      <workItem from="1630419733212" duration="54000" />
+      <workItem from="1630469289479" duration="6820000" />
+      <workItem from="1630477487545" duration="3191000" />
+      <workItem from="1630483957839" duration="17807000" />
+      <workItem from="1630543929136" duration="9589000" />
+      <workItem from="1630555364402" duration="820000" />
+      <workItem from="1630556200612" duration="439000" />
+      <workItem from="1630556650830" duration="132000" />
+      <workItem from="1630556793562" duration="2556000" />
+      <workItem from="1630559386377" duration="9624000" />
+      <workItem from="1630571625382" duration="11629000" />
+      <workItem from="1630638028973" duration="1478000" />
+      <workItem from="1630685969319" duration="2906000" />
+      <workItem from="1630741874333" duration="190000" />
+      <workItem from="1630768868598" duration="3821000" />
+      <workItem from="1630805874308" duration="9931000" />
+      <workItem from="1630823253381" duration="4211000" />
+      <workItem from="1630837291546" duration="568000" />
+      <workItem from="1630901494229" duration="2319000" />
+      <workItem from="1631064723542" duration="1934000" />
+      <workItem from="1631067717910" duration="753000" />
+      <workItem from="1631076588298" duration="5809000" />
+      <workItem from="1631088678246" duration="16954000" />
+      <workItem from="1631154336229" duration="39198000" />
+      <workItem from="1631236645903" duration="34927000" />
+      <workItem from="1631281245056" duration="5854000" />
+      <workItem from="1631377892985" duration="3594000" />
+      <workItem from="1631541997897" duration="3455000" />
+      <workItem from="1631870711978" duration="734000" />
+      <workItem from="1631892040240" duration="9039000" />
+      <workItem from="1631927755007" duration="4302000" />
+      <workItem from="1631938412154" duration="20024000" />
+      <workItem from="1631966142910" duration="17362000" />
+      <workItem from="1631985945444" duration="983000" />
+      <workItem from="1632016314568" duration="28933000" />
+      <workItem from="1632105462667" duration="1437000" />
+      <workItem from="1632197176568" duration="3712000" />
+      <workItem from="1632363331322" duration="2787000" />
+      <workItem from="1632386380212" duration="17037000" />
+      <workItem from="1632457476943" duration="3016000" />
+      <workItem from="1632757613386" duration="3519000" />
+      <workItem from="1632790605704" duration="713000" />
+      <workItem from="1632831055047" duration="1156000" />
+      <workItem from="1632914642534" duration="973000" />
+      <workItem from="1633526320735" duration="5622000" />
+      <workItem from="1634116111570" duration="1248000" />
+      <workItem from="1634118593295" duration="396000" />
+      <workItem from="1634448436911" duration="1270000" />
+      <workItem from="1634638991959" duration="3289000" />
+      <workItem from="1634692936808" duration="360000" />
+      <workItem from="1634724336439" duration="767000" />
+      <workItem from="1635510418436" duration="893000" />
+      <workItem from="1635917602864" duration="40000" />
+      <workItem from="1636553029241" duration="6019000" />
+      <workItem from="1636559318673" duration="10701000" />
+      <workItem from="1636637018251" duration="5667000" />
+      <workItem from="1636647847405" duration="3167000" />
+      <workItem from="1636692078695" duration="18579000" />
+      <workItem from="1636814231600" duration="62672000" />
+      <workItem from="1636958368465" duration="3533000" />
+      <workItem from="1637130073050" duration="2000" />
+      <workItem from="1637299308811" duration="946000" />
+      <workItem from="1637598139832" duration="4557000" />
+      <workItem from="1637634736901" duration="3805000" />
+      <workItem from="1637722154339" duration="1032000" />
+      <workItem from="1637768164154" duration="367000" />
+      <workItem from="1637887817911" duration="2140000" />
+      <workItem from="1637890097187" duration="640000" />
+      <workItem from="1637931246122" duration="3077000" />
+      <workItem from="1637978824316" duration="8371000" />
+      <workItem from="1637994145877" duration="1062000" />
+      <workItem from="1638011197853" duration="2916000" />
+      <workItem from="1639048980779" duration="1222000" />
+      <workItem from="1639321695440" duration="14343000" />
+      <workItem from="1639449171940" duration="1329000" />
+      <workItem from="1639486511833" duration="597000" />
+      <workItem from="1639666206886" duration="1604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/auto_course/test.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auto_wifi_py$wallpapare.coverage" NAME="wallpapare Coverage Results" MODIFIED="1628495719617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$captcha.coverage" NAME="captcha Coverage Results" MODIFIED="1631247502500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/geetest" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$app.coverage" NAME="app Coverage Results" MODIFIED="1630565967090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/school_site" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$face_training.coverage" NAME="face_training Coverage Results" MODIFIED="1624363325292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_recognize" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$myrsa.coverage" NAME="myrsa Coverage Results" MODIFIED="1627992813509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/everything/rsa" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$train.coverage" NAME="train Coverage Results" MODIFIED="1631950619988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/captcha_tf2" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$transfer.coverage" NAME="transfer Coverage Results" MODIFIED="1636732285058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$verify_and_split_data.coverage" NAME="verify_and_split_data Coverage Results" MODIFIED="1632065575387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_captcha" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$network.coverage" NAME="network Coverage Results" MODIFIED="1632016764064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_captcha/cnnlib" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$cybercafe_movie.coverage" NAME="cybercafe_movie Coverage Results" MODIFIED="1628084080155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$modules.coverage" NAME="modules Coverage Results" MODIFIED="1630413598434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yzm_recognition" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$last_main.coverage" NAME="last_main Coverage Results" MODIFIED="1630571816200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/school_site" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$recovery_img.coverage" NAME="recovery_img Coverage Results" MODIFIED="1631240298551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/geetest" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$utils.coverage" NAME="utils Coverage Results" MODIFIED="1624676529972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$param.coverage" NAME="param Coverage Results" MODIFIED="1631193564267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geetest-crack/geetest_crack" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$migu.coverage" NAME="migu Coverage Results" MODIFIED="1626576760640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/migu_music" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$bat.coverage" NAME="bat Coverage Results" MODIFIED="1621526883221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$predict.coverage" NAME="predict Coverage Results" MODIFIED="1630411439731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/captcha_cnn" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$table.coverage" NAME="table Coverage Results" MODIFIED="1630515265538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$t__1_.coverage" NAME="t (1) Coverage Results" MODIFIED="1630395707436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_wifi" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$tensorflow.coverage" NAME="tensorflow Coverage Results" MODIFIED="1630393160541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_wifi" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$create_image.coverage" NAME="create_image Coverage Results" MODIFIED="1631953164431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/captcha_tf2" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$recognition_object.coverage" NAME="recognition_object Coverage Results" MODIFIED="1632053764232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_captcha/cnnlib" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$process.coverage" NAME="process Coverage Results" MODIFIED="1631965949104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnnyzm" />
+    <SUITE FILE_PATH="coverage/py_spider$main.coverage" NAME="main Coverage Results" MODIFIED="1621352248173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$gen_imgs.coverage" NAME="gen_imgs Coverage Results" MODIFIED="1630414926901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yzm_recognition" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$webserver__1_.coverage" NAME="webserver (1) Coverage Results" MODIFIED="1632197575826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_captcha/cnnlib" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$api.coverage" NAME="api Coverage Results" MODIFIED="1624702949384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$geetest_session.coverage" NAME="geetest_session Coverage Results" MODIFIED="1631193576519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geetest-crack/geetest_crack" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$example.coverage" NAME="example Coverage Results" MODIFIED="1630407071959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_codeIdentified" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$youzheng.coverage" NAME="youzheng Coverage Results" MODIFIED="1624513291327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/everything/ems" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$work.coverage" NAME="work Coverage Results" MODIFIED="1630389391469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$geetest__1_.coverage" NAME="geetest (1) Coverage Results" MODIFIED="1631542471704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geetest" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$upload_imgs.coverage" NAME="upload_imgs Coverage Results" MODIFIED="1636693019169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$aiofile_test.coverage" NAME="aiofile_test Coverage Results" MODIFIED="1636710896072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$moblie.coverage" NAME="moblie Coverage Results" MODIFIED="1630387860036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_wifi" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$webserver_recognize_api.coverage" NAME="webserver_recognize_api Coverage Results" MODIFIED="1632105544697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_captcha" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$slider_infer.coverage" NAME="slider_infer Coverage Results" MODIFIED="1632209889674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SliderYolo" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$index.coverage" NAME="index Coverage Results" MODIFIED="1632056133087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/school_work" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$t.coverage" NAME="t Coverage Results" MODIFIED="1630472365694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_wifi" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$tt.coverage" NAME="tt Coverage Results" MODIFIED="1636727933277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$test.coverage" NAME="test Coverage Results" MODIFIED="1639333034356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$call_login.coverage" NAME="call_login Coverage Results" MODIFIED="1630512792281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$wsgjp.coverage" NAME="wsgjp Coverage Results" MODIFIED="1629626297570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/py_spider$test.coverage" NAME="test Coverage Results" MODIFIED="1621221846091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1639334627913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/xuexitong" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$table__1_.coverage" NAME="table (1) Coverage Results" MODIFIED="1630560061188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/school_site/ui" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$rsa_text.coverage" NAME="rsa_text Coverage Results" MODIFIED="1628751518094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/yiban" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$95505__1_.coverage" NAME="95505 (1) Coverage Results" MODIFIED="1628500680087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$gen_verify_code.coverage" NAME="gen_verify_code Coverage Results" MODIFIED="1630407859996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnnyzm" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$geetest.coverage" NAME="geetest Coverage Results" MODIFIED="1632364553984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geetest" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$tf_test.coverage" NAME="tf_test Coverage Results" MODIFIED="1632058979221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/school_work" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$fetch_ips.coverage" NAME="fetch_ips Coverage Results" MODIFIED="1632914958196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/github520" />
+    <SUITE FILE_PATH="coverage/py_spider$auto_wifi.coverage" NAME="auto_wifi Coverage Results" MODIFIED="1621352256522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$train_model__1_.coverage" NAME="train_model (1) Coverage Results" MODIFIED="1624506365639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recognize_digit" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$auto_wifi.coverage" NAME="auto_wifi Coverage Results" MODIFIED="1634693274536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_wifi" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$trace.coverage" NAME="trace Coverage Results" MODIFIED="1631257761144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/geetest" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1631966164690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnnyzm" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$recognize_img.coverage" NAME="recognize_img Coverage Results" MODIFIED="1624429638868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recognize_digit" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$testApi.coverage" NAME="testApi Coverage Results" MODIFIED="1638012288200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$aiohttp_cookie_test.coverage" NAME="aiohttp_cookie_test Coverage Results" MODIFIED="1636867187005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$radio.coverage" NAME="radio Coverage Results" MODIFIED="1630549249434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$gui.coverage" NAME="gui Coverage Results" MODIFIED="1624979214582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$fetch_img.coverage" NAME="fetch_img Coverage Results" MODIFIED="1625335061627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$iterate_dir__1_.coverage" NAME="iterate_dir (1) Coverage Results" MODIFIED="1636708228761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$myrsa__1_.coverage" NAME="myrsa (1) Coverage Results" MODIFIED="1624515780171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$rsa.coverage" NAME="rsa Coverage Results" MODIFIED="1628758513074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$predict__1_.coverage" NAME="predict (1) Coverage Results" MODIFIED="1630415911452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yzm_recognition" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$.coverage" NAME="图片还原 Coverage Results" MODIFIED="1631256384864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/geetest/极验图片还原" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$autojs.coverage" NAME="autojs Coverage Results" MODIFIED="1621707572461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$util.coverage" NAME="util Coverage Results" MODIFIED="1624954919538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/xuexitong" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$async_test.coverage" NAME="async_test Coverage Results" MODIFIED="1628090623375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$train_model.coverage" NAME="train_model Coverage Results" MODIFIED="1632065965574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_captcha" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1639666407912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/xuexitong" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$recognize_local.coverage" NAME="recognize_local Coverage Results" MODIFIED="1631975592800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_captcha" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$gdzw.coverage" NAME="gdzw Coverage Results" MODIFIED="1631902361621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/school_work" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1624893014102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/xuexitong" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$recognize_online.coverage" NAME="recognize_online Coverage Results" MODIFIED="1631975437268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_captcha" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$entry.coverage" NAME="entry Coverage Results" MODIFIED="1628768692510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/yiban" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$slider_verification.coverage" NAME="slider_verification Coverage Results" MODIFIED="1627818584937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$mobile.coverage" NAME="mobile Coverage Results" MODIFIED="1637299488629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/yiban" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$main_least.coverage" NAME="main_least Coverage Results" MODIFIED="1624879003121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/yuketang" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$recognize_digit__1_.coverage" NAME="recognize_digit (1) Coverage Results" MODIFIED="1624427859184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recognize_digit" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$ftp.coverage" NAME="ftp Coverage Results" MODIFIED="1625245348046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1630508749184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$face_detection.coverage" NAME="face_detection Coverage Results" MODIFIED="1622553338844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_recognize" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$temp.coverage" NAME="temp Coverage Results" MODIFIED="1632056227551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/school_work" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$RSA_demo__1_.coverage" NAME="RSA_demo (1) Coverage Results" MODIFIED="1628758593648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$njcedu.coverage" NAME="njcedu Coverage Results" MODIFIED="1636958666466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$main.coverage" NAME="main Coverage Results" MODIFIED="1639449867677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/xuexitong" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$wallpapaer.coverage" NAME="wallpapaer Coverage Results" MODIFIED="1628433239560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$recognize_digit.coverage" NAME="recognize_digit Coverage Results" MODIFIED="1624418163540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$tttt.coverage" NAME="tttt Coverage Results" MODIFIED="1630504707045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_course/school_site" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$test_batch.coverage" NAME="test_batch Coverage Results" MODIFIED="1631973942600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn_captcha" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$fiddler_request.coverage" NAME="fiddler_request Coverage Results" MODIFIED="1636694818208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$img_process.coverage" NAME="img_process Coverage Results" MODIFIED="1630401650287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeOCR" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$encrypt.coverage" NAME="encrypt Coverage Results" MODIFIED="1631110907982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/geetest" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$key_test.coverage" NAME="key_test Coverage Results" MODIFIED="1636706176096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$gen_captcha.coverage" NAME="gen_captcha Coverage Results" MODIFIED="1631901196935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/school_work" />
+    <SUITE FILE_PATH="coverage/auto_wifi_py$bilibil_login.coverage" NAME="bilibil_login Coverage Results" MODIFIED="1632364451692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geetest" />
+  </component>
+</project>

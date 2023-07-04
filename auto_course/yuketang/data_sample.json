@@ -1,0 +1,2229 @@
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题一（上） 第1节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "21038A5F3B2306DF9C33DC5901307461",
+        "cover": "",
+        "name": "专题一（上） 第1节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 135016682
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570262,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": False,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题一（上） 第2节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "436D887C49864FF29C33DC5901307461",
+        "cover": "",
+        "name": "专题一（上） 第2节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 136397433
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570263,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题一（上） 第3节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "6CD22DD9E7A9324A9C33DC5901307461",
+        "cover": "",
+        "name": "专题一（上） 第3节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 127612917
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570264,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题一（上） 第4节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "D9FF3BB00B495D919C33DC5901307461",
+        "cover": "",
+        "name": "专题一（上） 第4节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 171505468
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570265,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题一（下） 第1节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "D017672CFAA31B529C33DC5901307461",
+        "cover": "",
+        "name": "专题一（下） 第1节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 136227192
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570266,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题一（下） 第2节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "581DDB08B10856899C33DC5901307461",
+        "cover": "",
+        "name": "专题一（下） 第2节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 140761955
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570267,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题一（下） 第3节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "97B56FFEE8E658E89C33DC5901307461",
+        "cover": "",
+        "name": "专题一（下） 第3节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 136561639
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570268,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题一（下） 第4节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "AE4AC31C33D71BD09C33DC5901307461",
+        "cover": "",
+        "name": "专题一（下） 第4节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 144311287
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570269,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题一作业",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.4
+        },
+        "score": 1.0,
+        "id": 11,
+        "name": "作业单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {},
+      "cover": "",
+      "leaf_type_id": 1265428,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 6,
+    "id": 11570270,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624723200000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题二（上） 第1节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "AABF989201013CC59C33DC5901307461",
+        "cover": "",
+        "name": "专题二（上） 第1节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 130926502
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570271,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题二（上） 第2节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "174D27A4392614339C33DC5901307461",
+        "cover": "",
+        "name": "专题二（上） 第2节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 133249371
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570272,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题二（上） 第3节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "5792A667A45A24269C33DC5901307461",
+        "cover": "",
+        "name": "专题二（上） 第3节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 135169789
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570273,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题二（上） 第4节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "BF7E2FE0708BBC179C33DC5901307461",
+        "cover": "",
+        "name": "专题二（上） 第4节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 143436428
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570274,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题二（下） 第1节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "F204367C9ED189039C33DC5901307461",
+        "cover": "",
+        "name": "专题二（下） 第1节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 152066023
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570275,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题二（下） 第2节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "6253B2F8DC2070B49C33DC5901307461",
+        "cover": "",
+        "name": "专题二（下） 第2节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 142767648
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570276,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题二（下） 第3节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "0D9C25716A2785669C33DC5901307461",
+        "cover": "",
+        "name": "专题二（下） 第3节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 146989697
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570277,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题二（下） 第4节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "F9DCA35F9BE0425D9C33DC5901307461",
+        "cover": "",
+        "name": "专题二（下） 第4节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 156602386
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570278,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题二作业",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.4
+        },
+        "score": 1.0,
+        "id": 11,
+        "name": "作业单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {},
+      "cover": "",
+      "leaf_type_id": 1265429,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 6,
+    "id": 11570279,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624723200000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题三（上） 第1节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "2FA7BE08075A81EE9C33DC5901307461",
+        "cover": "",
+        "name": "专题三（上） 第1节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 137367425
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570280,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题三（上） 第2节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "4124245E4EFBE1E49C33DC5901307461",
+        "cover": "",
+        "name": "专题三（上） 第2节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 125455687
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570281,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题三（上） 第3节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "C261DEE12524605E9C33DC5901307461",
+        "cover": "",
+        "name": "专题三（上） 第3节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 141153899
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570282,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题三（上） 第4节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "59E1622420A2DE199C33DC5901307461",
+        "cover": "",
+        "name": "专题三（上） 第4节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 132905486
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570283,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题三（下） 第1节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "080D1D0D7C48E1899C33DC5901307461",
+        "cover": "",
+        "name": "专题三（下） 第1节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 134674390
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570284,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题三（下） 第2节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "BA591D2E10CA573A9C33DC5901307461",
+        "cover": "",
+        "name": "专题三（下） 第2节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 144830147
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570285,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题三（下） 第3节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "EFB7E0A69CDDC7BD9C33DC5901307461",
+        "cover": "",
+        "name": "专题三（下） 第3节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 132461574
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570286,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题三（下） 第4节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "067911A3EA08C0FA9C33DC5901307461",
+        "cover": "",
+        "name": "专题三（下） 第4节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 132793603
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570287,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题三作业",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.4
+        },
+        "score": 1.0,
+        "id": 11,
+        "name": "作业单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {},
+      "cover": "",
+      "leaf_type_id": 1265430,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 6,
+    "id": 11570288,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624723200000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题四（上） 第1节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "318435E8B8C159F19C33DC5901307461",
+        "cover": "",
+        "name": "专题四（上） 第1节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 156361949
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570289,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题四（上） 第2节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "0F0470931D9641529C33DC5901307461",
+        "cover": "",
+        "name": "专题四（上） 第2节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 149969130
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570290,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题四（上） 第3节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "F33CA66A97C15A2A9C33DC5901307461",
+        "cover": "",
+        "name": "专题四（上） 第3节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 151460324
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570291,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题四（上） 第4节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "33D1397770B8A9679C33DC5901307461",
+        "cover": "",
+        "name": "专题四（上） 第4节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 156553848
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570292,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题四（下） 第1节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "157B5E8EFECB8E369C33DC5901307461",
+        "cover": "",
+        "name": "专题四（下） 第1节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 138780930
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570293,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题四（下） 第2节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "34148B07B964BBC59C33DC5901307461",
+        "cover": "",
+        "name": "专题四（下） 第2节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 100249848
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570294,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题四（下） 第3节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "59BB94081792CCCC9C33DC5901307461",
+        "cover": "",
+        "name": "专题四（下） 第3节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 74001038
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570295,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题四（下） 第4节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "EA1A96CD1B3D69739C33DC5901307461",
+        "cover": "",
+        "name": "专题四（下） 第4节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 287169702
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570296,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题四作业",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.4
+        },
+        "score": 1.0,
+        "id": 11,
+        "name": "作业单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {},
+      "cover": "",
+      "leaf_type_id": 1265431,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 6,
+    "id": 11570297,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955134000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}
+{
+  "msg": "",
+  "data": {
+    "sku_id": 2900228,
+    "is_deleted": False,
+    "name": "专题五（上） 第1节",
+    "content_info": {
+      "status": "post",
+      "expand_discuss": False,
+      "score_evaluation": {
+        "score_proportion": {
+          "proportion": 0.6
+        },
+        "score": 1.0,
+        "id": 6,
+        "name": "视频单元考核"
+      },
+      "download": [],
+      "is_score": True,
+      "is_discuss": False,
+      "remark": {
+        "remark": ""
+      },
+      "cover_desc": "",
+      "cover_thumbnail": "",
+      "media": {
+        "ccid": "50E83E75E1659FDE9C33DC5901307461",
+        "cover": "",
+        "name": "专题五（上） 第1节.mp4",
+        "duration": 0,
+        "type": "video",
+        "size": 191292798
+      },
+      "cover": "",
+      "leaf_type_id": None,
+      "context": ""
+    },
+    "classroom_id": "7551491",
+    "locked_reason": None,
+    "user_role": None,
+    "leaf_type": 0,
+    "id": 11570298,
+    "has_classend": False,
+    "university_id": 0,
+    "be_in_force": False,
+    "score_deadline": 1624955400000.0,
+    "course_id": 2674223,
+    "user_id": 33490896,
+    "is_score": True,
+    "teacher": {
+      "org_name": "深圳信息职业技术学院",
+      "picture": "https://qn-next.xuetangx.com/15809789711670.jpg",
+      "name": "陈慧群",
+      "department_name": None,
+      "intro": "",
+      "job_title": ""
+    },
+    "is_assessed": False
+  },
+  "success": True
+}

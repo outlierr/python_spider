@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="user">
+    <file>account.png</file>
+    <file>attention.png</file>
+    <file>attention_forbid.png</file>
+    <file>password.png</file>
+    <file>user_icon.png</file>
+  </qresource>
+</RCC>
